@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-
+//aaa
 void strike_single(int *a, int *b,int *c) {
  int tmp=0;
  tmp+= *a+*b;
